@@ -85,3 +85,7 @@
 </details>
 
 ![github contribution grid snake animation][snake]
+
+
+
+[snake]: https://raw.githubusercontent.com/sancharika/sancharika/output/github-contribution-grid-snake.svg
