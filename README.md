@@ -80,12 +80,3 @@
 ## 🏆 Achievements
 - 🥈 Ranked **2nd place in the 2024 RIMAI Data Science Challenge** focused on license plate recognition.
   - Learn more about the challenge at [RIMAI Challenge Website](https://www.rim-ai.com/challenge).
-![Sancharika's GitHub stats](https://github-readme-stats.vercel.app/api?username=sancharika&show_icons=true&theme=radical)
-
-</details>
-
-![github contribution grid snake animation][snake]
-
-
-
-[snake]: https://raw.githubusercontent.com/sancharika/sancharika/output/github-contribution-grid-snake.svg
