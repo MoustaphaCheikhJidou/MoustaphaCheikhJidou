@@ -63,7 +63,8 @@
   <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
   <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwindcss&logoColor=white">
   <img alt="Gradio" src="https://img.shields.io/badge/Gradio-%230079D6.svg?style=plastic&logo=python&logoColor=white">
-  <img alt="Flutter" src="[https://img.shields.io/badge/Gradio-%230079D6.svg?style=plastic&logo=python&logoColor=white](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)">
+  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
+
 </p>
 
 ### 📊 BI, Stats & Data Collection
