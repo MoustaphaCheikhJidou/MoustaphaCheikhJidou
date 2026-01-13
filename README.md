@@ -21,7 +21,6 @@
   - **Infra-hourly PV power forecasting** with LSTM/GRU.
 - 🤖 I build **end-to-end data & AI solutions**: from data collection and cleaning to dashboards, APIs and ML models in production-like environments.
 - 💡 Strong interest in **Mining Analytics**, **Time Series Forecasting**, **LLMs & RAG**, and **applied econometrics**.
-- 👨‍💻 President & founder of **ESP Data Club**, where I organise datathons, workshops and real-world data projects.
 - 🏆 **1st place – RIMAI Data Science Challenge 2024** (license plate recognition with computer vision & deep learning).
 - 🚀 I love turning messy data into **useful tools, dashboards and decision-support systems**.
 
@@ -120,9 +119,6 @@
 - 🥇 **1st place – RIMAI Data Science Challenge 2024**  
   License plate recognition using computer vision and deep learning on Mauritanian plates.  
   🔗 [RIMAI Challenge Website](https://www.rim-ai.com/challenge)
-
-- 🎯 **Founder & President – ESP Data Club**  
-  Organised the **first Datathon in Mauritania**, led workshops on Python, ML and data engineering, and mentored students on real-world data projects.
 
 ---
 
