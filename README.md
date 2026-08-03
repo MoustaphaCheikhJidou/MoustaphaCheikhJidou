@@ -1,144 +1,119 @@
-<h1 align="center">Hi, I'm El Moustapha Cheikh Jidou! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+El+Moustpha+%F0%9F%91%8B;Statistician-Economist+%26+Data%2FAI+Engineer;RAG+%7C+LLMs+%7C+Time+Series+Forecasting;Lecturer+in+Statistics+%26+Survey+Methods;Building+data+systems+that+work+in+production" alt="Typing SVG" />
+
+<p>
+  <a href="https://moustaphacheikhjidou.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-1f2c67?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
+  <a href="https://www.linkedin.com/in/el-moustapha-cheikh-jidou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:elmoustapha.cheikh.jiddou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://komarev.com/ghpvc/?username=MoustaphaCheikhJidou&label=Profile%20Views&color=1f2c67&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+</div>
+
+<br>
+
+## About Me
+
+I'm a State Engineer student in **Statistics & Data Engineering** at the **Higher Polytechnic School (ESP), Nouakchott**, with a parallel Master's track in **Applied Econometrics** (FSEG) — I sit at the intersection of **data engineering, applied AI, and economic analysis**, and I care about systems that hold up in production, not just in a notebook.
+
+- 🏦 Currently a **Data Systems & IT Architecture Intern at Banque Nationale de Mauritanie (BNM)** — building a centralized Data Warehouse, containerized microservices, and a secure multi-LLM RAG chatbot integrated with WhatsApp.
+- 📊 Completed a macroeconomic research internship at **Banque Centrale de Mauritanie (BCM)** — DSGE modeling of monetary regimes for my Master's thesis.
+- 🎓 Taught two consecutive years as a **Lecturer at ISS** (my own alma mater) — *Poverty & Household Living Conditions* and *Sociological Survey Methods*, with hands-on TD/TP supervision, PFE mentoring, and course design.
+- ⛏️ Interned as an **Assistant Engineer at Kinross Gold (Tasiast Mine)** — Wall Compliance dashboards, Daily Survey digitization, and infra-hourly PV power forecasting with LSTM/GRU.
+- 🏆 **1st place, RIMAI Data Science Challenge 2024** (license plate recognition with computer vision) — and organizer of **Mauritania's first Datathon**, as President of the ESP Data Club.
+- 🌍 Open to **Data Engineering / Data Science / Applied Economics** opportunities, in Mauritania, France, and beyond.
+
+<br>
+
+## Tech Stack
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2312A3F4&size=25&center=true&vCenter=true&width=650&height=100&lines=Statistics+%26+Data+Engineering+Student;Mining+%26+Energy+Data+Science;Data+Engineer+%7C+ML+Engineer;RAG+%7C+LLMs+%7C+Time+Series+Forecasting;Always+learning+new+things">
-  </a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white">
 </p>
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=MoustaphaCheikhJidou&label=Profile%20Views&color=0e75b6&style=plastic" alt="Profile Views" height="35px" width="160px"/> 
-</p>
-
----
-
-## 🧐 About Me
-
-- 🎓 I’m an **Engineering student in Statistics & Data Engineering** at **ESP Nouakchott**, with a double track in **Statistical Economics** (FSJE) and an exchange semester in **Computer Engineering & Networks** at **ÉMSI Rabat**.
-- 🪙 Recently worked as an **Assistant Engineer Intern** at **Kinross Gold – Tasiast Mine**, on:
-  - **Wall Compliance 80/80 dashboards** (Toe/Crest/Berm Width KPIs),
-  - **Daily Survey digitalization** (Microsoft Forms → SharePoint/Excel Web → Power BI),
-  - **Infra-hourly PV power forecasting** with LSTM/GRU.
-- 🤖 I build **end-to-end data & AI solutions**: from data collection and cleaning to dashboards, APIs and ML models in production-like environments.
-- 💡 Strong interest in **Mining Analytics**, **Time Series Forecasting**, **LLMs & RAG**, and **applied econometrics**.
-- 🏆 **1st place – RIMAI Data Science Challenge 2024** (license plate recognition with computer vision & deep learning).
-- 🚀 I love turning messy data into **useful tools, dashboards and decision-support systems**.
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Programming Languages
-
-<p align="center"> 
-  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  <img alt="R" src="https://img.shields.io/badge/R-%23276DC3.svg?style=plastic&logo=r&logoColor=white">
-  <img alt="SQL" src="https://img.shields.io/badge/SQL-%2300758F.svg?style=plastic&logo=database&logoColor=white">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white">
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=plastic&logo=javascript&logoColor=black">
-  <img alt="Scala" src="https://img.shields.io/badge/Scala-%23DC322F.svg?style=plastic&logo=scala&logoColor=white">
-</p>
-
-### 🧱 Data, AI & Big Data
 
 <p align="center">
-  <img alt="Pandas" src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white">
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white">
-  <img alt="Scikit-learn" src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=plastic&logo=scikitlearn&logoColor=white">
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white">
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white">
-  <img alt="Keras" src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=keras&logoColor=white">
-  <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-%23E25A1C.svg?style=plastic&logo=apachespark&logoColor=white">
-  <img alt="Hadoop" src="https://img.shields.io/badge/Hadoop-%2366CCFF.svg?style=plastic&logo=apachehadoop&logoColor=white">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
-
-### 🌐 Web, APIs & Apps
 
 <p align="center">
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white">
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white">
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=plastic&logo=fastapi&logoColor=white">
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=plastic&logo=springboot&logoColor=white">
-  <img alt="React" src="https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=black">
-  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=plastic&logo=tailwindcss&logoColor=white">
-  <img alt="Gradio" src="https://img.shields.io/badge/Gradio-%230079D6.svg?style=plastic&logo=python&logoColor=white">
-  <img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white">
-
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white">
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=white">
 </p>
-
-### 📊 BI, Stats & Data Collection
 
 <p align="center">
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=plastic&logo=powerbi&logoColor=black">
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346?style=plastic&logo=microsoft-excel&logoColor=white">
-  <img alt="SPSS" src="https://img.shields.io/badge/SPSS-%2314354C.svg?style=plastic&logo=spss&logoColor=white">
-  <img alt="Stata" src="https://img.shields.io/badge/Stata-%23002593.svg?style=plastic&logo=stata&logoColor=white">
-  <img alt="EViews" src="https://img.shields.io/badge/EViews-%23FFD700.svg?style=plastic&logoColor=black">
-  <img alt="KoboToolbox" src="https://img.shields.io/badge/KoboToolbox-%2300BFFF.svg?style=plastic&logoColor=white">
-  <img alt="CSPro" src="https://img.shields.io/badge/CSPro-%23F37626.svg?style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
+  <img src="https://img.shields.io/badge/Stata-002593?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/SPSS-14354C?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/EViews-FFD700?style=for-the-badge&logoColor=black">
+  <img src="https://img.shields.io/badge/KoboToolbox-00BFFF?style=for-the-badge&logoColor=white">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
 
-### ⚙️ DevOps & Tools
+<br>
 
-<p align="center">
-  <img alt="Git" src="https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white">
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white">
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black">
-  <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-0078D6.svg?style=plastic&logo=visual-studio-code&logoColor=white">
-  <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=plastic&logo=jupyter&logoColor=white">
-</p>
+## Featured Projects
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 🚀 Featured Projects
+**🔎 [RAG-WebSystem](https://github.com/MoustaphaCheikhJidou/RAG-WebSystem)**
+End-to-end Retrieval-Augmented Generation engine — FAISS semantic search, contextual answer generation, FastAPI backend, React + Tailwind UI.
 
-- 🔎 **RAG-WebSystem – Retrieval-Augmented Generation Engine**  
-  End-to-end RAG system (FAISS + LLMs) with ingestion, vector indexing, semantic search and answer generation; **FastAPI backend** and **React/Tailwind UI**.  
-  👉 [GitHub Repository](https://github.com/MoustaphaCheikhJidou/RAG-WebSystem)
+</td>
+<td width="50%" valign="top">
 
-- 🪫 **PV Production Forecasting (Mining Site, Tasiast)**  
-  Time series modelling of infra-hourly PV power using **LSTM/GRU**, ramps (ΔP) and temporal encodings to anticipate sudden drops in production and support operational decisions.
+**🔬 [Grain Size Analysis (316L)](https://github.com/MoustaphaCheikhJidou/grain-size-analysis-316L-microstructure)**
+Computer-vision pipeline (thresholding, HED, U-Net) segmenting grain boundaries on stainless-steel micrographs, with a Gradio interface.
 
-- ⛏️ **DataMine App – Geostatistical Project Management**  
-  Collaborative platform to manage and track tasks for a geostatistical data project: task boards, progress monitoring and deliverable tracking.  
-  👉 [GitHub Repository](https://github.com/MoustaphaCheikhJidou/DataMineSynergy-App.git)
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- 🧬 **Grain Size Analysis of 316L Microstructure**  
-  Computer vision pipeline (OpenCV, HED/U-Net) to segment grains on 316L steel micrographs, calibrate measurements and export grain statistics via a Gradio interface.  
-  👉 [GitHub Repository](https://github.com/MoustaphaCheikhJidou/grain-size-analysis-316L-microstructure)
+**📉 [Poverty & Inequality Forecasting](https://github.com/MoustaphaCheikhJidou/Poverty-Gini-Forecast-Mauritania)**
+Forecasts of four key poverty indicators (1996–2030) from survey data, built to support Mauritanian policy planning.
 
-- 🌱 **Smart Agriculture System (Greenhouse Analytics)**  
-  IoT + ML system for greenhouse monitoring: sensor data collection, dashboards and predictive models to optimise resources and yield.  
-  👉 [GitHub Repository](https://github.com/MoustaphaCheikhJidou/smart-agriculture-system.git)
+</td>
+<td width="50%" valign="top">
 
----
+**⛏️ [DataMine App](https://github.com/MoustaphaCheikhJidou/DataMineSynergy-App)**
+Collaborative platform for managing and tracking tasks on a geostatistical data project, with GitHub-based progress visualization.
 
-## 🏆 Achievements
+</td>
+</tr>
+</table>
 
-- 🥇 **1st place – RIMAI Data Science Challenge 2024**  
-  License plate recognition using computer vision and deep learning on Mauritanian plates.  
-  🔗 [RIMAI Challenge Website](https://www.rim-ai.com/challenge)
+<br>
 
----
+## GitHub Stats
 
-## 📫 Connect with Me
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/el-moustapha-cheikh-jidou/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.facebook.com/mostapha.jidou.9"><img src="https://img.shields.io/badge/Facebook-1877F2?style=plastic&logo=facebook&logoColor=white" alt="Facebook"></a>
-  <a href="https://www.instagram.com/moustapha_cheikhna_jidou/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white" alt="Instagram"></a>
-  <a href="https://x.com/el_jidou"><img src="https://img.shields.io/badge/X-1DA1F2?style=plastic&logo=x&logoColor=white" alt="X (formerly Twitter)"></a>
-  <a href="mailto:elmoustapha.cheikh.jidou@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" alt="Email"></a>
-</p>
+<img src="https://streak-stats.demolab.com?user=MoustaphaCheikhJidou&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoustaphaCheikhJidou&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
 
----
+</div>
 
-## 📊 GitHub Stats
+<br>
 
-<details><summary>Click to Expand</summary>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MoustaphaCheikhJidou&theme=tokyonight" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=MoustaphaCheikhJidou&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-</p>
-</details>
+<div align="center">
+
+*Thanks for stopping by — check out my <a href="https://moustaphacheikhjidou.github.io/MyPortfolio/">portfolio</a> for the full picture.*
+
+</div>
