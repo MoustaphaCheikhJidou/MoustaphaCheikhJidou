@@ -1,6 +1,19 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+El+Moustpha;Statistician-Economist+%26+Data%2FAI+Engineer;RAG+%7C+LLMs+%7C+Time+Series+Forecasting;Lecturer+in+Statistics+%26+Survey+Methods;Building+data+systems+that+work+in+production" alt="Typing SVG" />
+<h3><code>em@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./em-ascii.svg" width="360" alt="El Moustpha Cheikh Jiddou — ASCII portrait" /></td>
+<td valign="top"><img src="./wordmark.svg" width="490" alt="MCJ — 3D ASCII wordmark" /></td>
+</tr>
+</table>
+
+<br>
+
+<h3><code>em@github ~ $ ./links.sh</code></h3>
+
+<p><b>Statistician-Economist · Data/AI Engineer · Lecturer</b></p>
 
 <p>
   <a href="https://moustaphacheikhjidou.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-1f2c67?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
@@ -63,16 +76,6 @@ I'm a State Engineer student in **Statistics & Data Engineering** at the **Highe
   <img src="https://img.shields.io/badge/KoboToolbox-00BFFF?style=for-the-badge&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
 </p>
-
-<br>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/1f2c67/MoustaphaCheikhJidou" alt="MoustaphaCheikhJidou's GitHub contribution graph" width="100%"/>
-
-</div>
 
 <br>
 
