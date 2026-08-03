@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+El+Moustpha+%F0%9F%91%8B;Statistician-Economist+%26+Data%2FAI+Engineer;RAG+%7C+LLMs+%7C+Time+Series+Forecasting;Lecturer+in+Statistics+%26+Survey+Methods;Building+data+systems+that+work+in+production" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=750&height=70&lines=Hi%2C+I'm+El+Moustpha;Statistician-Economist+%26+Data%2FAI+Engineer;RAG+%7C+LLMs+%7C+Time+Series+Forecasting;Lecturer+in+Statistics+%26+Survey+Methods;Building+data+systems+that+work+in+production" alt="Typing SVG" />
 
 <p>
   <a href="https://moustaphacheikhjidou.github.io/MyPortfolio/"><img src="https://img.shields.io/badge/Portfolio-1f2c67?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"></a>
@@ -15,14 +15,14 @@
 
 ## About Me
 
-I'm a State Engineer student in **Statistics & Data Engineering** at the **Higher Polytechnic School (ESP), Nouakchott**, with a parallel Master's track in **Applied Econometrics** (FSEG) — I sit at the intersection of **data engineering, applied AI, and economic analysis**, and I care about systems that hold up in production, not just in a notebook.
+I'm a State Engineer student in **Statistics & Data Engineering** at the **Higher Polytechnic School (ESP), Nouakchott**, with a parallel Master's track in **Applied Econometrics** (FSEG) — I sit at the intersection of data engineering, applied AI, and economic analysis, and I care about systems that hold up in production, not just in a notebook.
 
-- 🏦 Currently a **Data Systems & IT Architecture Intern at Banque Nationale de Mauritanie (BNM)** — building a centralized Data Warehouse, containerized microservices, and a secure multi-LLM RAG chatbot integrated with WhatsApp.
-- 📊 Completed a macroeconomic research internship at **Banque Centrale de Mauritanie (BCM)** — DSGE modeling of monetary regimes for my Master's thesis.
-- 🎓 Taught two consecutive years as a **Lecturer at ISS** (my own alma mater) — *Poverty & Household Living Conditions* and *Sociological Survey Methods*, with hands-on TD/TP supervision, PFE mentoring, and course design.
-- ⛏️ Interned as an **Assistant Engineer at Kinross Gold (Tasiast Mine)** — Wall Compliance dashboards, Daily Survey digitization, and infra-hourly PV power forecasting with LSTM/GRU.
-- 🏆 **1st place, RIMAI Data Science Challenge 2024** (license plate recognition with computer vision) — and organizer of **Mauritania's first Datathon**, as President of the ESP Data Club.
-- 🌍 Open to **Data Engineering / Data Science / Applied Economics** opportunities, in Mauritania, France, and beyond.
+- Currently a **Data Systems & IT Architecture Intern at Banque Nationale de Mauritanie (BNM)** — building a centralized Data Warehouse, containerized microservices, and a secure multi-LLM RAG chatbot integrated with WhatsApp.
+- Completed a macroeconomic research internship at **Banque Centrale de Mauritanie (BCM)** — DSGE modeling of monetary regimes for my Master's thesis.
+- Taught two consecutive years as a **Lecturer at ISS** (my own alma mater) — *Poverty & Household Living Conditions* and *Sociological Survey Methods*, with hands-on TD/TP supervision, PFE mentoring, and course design.
+- Interned as an **Assistant Engineer at Kinross Gold (Tasiast Mine)** — Wall Compliance dashboards, Daily Survey digitization, and infra-hourly PV power forecasting with LSTM/GRU.
+- **1st place, RIMAI Data Science Challenge 2024** (license plate recognition with computer vision) — and organizer of Mauritania's first Datathon, as President of the ESP Data Club.
+- Open to **Data Engineering / Data Science / Applied Economics** opportunities, in Mauritania, France, and beyond.
 
 <br>
 
@@ -66,47 +66,11 @@ I'm a State Engineer student in **Statistics & Data Engineering** at the **Highe
 
 <br>
 
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**🔎 [RAG-WebSystem](https://github.com/MoustaphaCheikhJidou/RAG-WebSystem)**
-End-to-end Retrieval-Augmented Generation engine — FAISS semantic search, contextual answer generation, FastAPI backend, React + Tailwind UI.
-
-</td>
-<td width="50%" valign="top">
-
-**🔬 [Grain Size Analysis (316L)](https://github.com/MoustaphaCheikhJidou/grain-size-analysis-316L-microstructure)**
-Computer-vision pipeline (thresholding, HED, U-Net) segmenting grain boundaries on stainless-steel micrographs, with a Gradio interface.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**📉 [Poverty & Inequality Forecasting](https://github.com/MoustaphaCheikhJidou/Poverty-Gini-Forecast-Mauritania)**
-Forecasts of four key poverty indicators (1996–2030) from survey data, built to support Mauritanian policy planning.
-
-</td>
-<td width="50%" valign="top">
-
-**⛏️ [DataMine App](https://github.com/MoustaphaCheikhJidou/DataMineSynergy-App)**
-Collaborative platform for managing and tracking tasks on a geostatistical data project, with GitHub-based progress visualization.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## GitHub Stats
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MoustaphaCheikhJidou&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MoustaphaCheikhJidou&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="100%"/>
+<img src="https://ghchart.rshah.org/1f2c67/MoustaphaCheikhJidou" alt="MoustaphaCheikhJidou's GitHub contribution graph" width="100%"/>
 
 </div>
 
